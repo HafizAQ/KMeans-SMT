@@ -92,7 +92,7 @@
             smt_centroid_trajectories.png
 
         Safety comparison:
-            violations_by_method.png, violations_by_method_with_penalty.png (if penalty run)
+            violations_all_methods, violations_by_method_with_penalty.png (if penalty run)
 
 #### Reproducing the figures in the paper
 
