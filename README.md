@@ -1,5 +1,5 @@
 # ###########################################################################################################################
-# ######### KMeans–SMT: Physics-Constrained Clustering with Symbolic Reasoning for Intelligent Vehicle Diagnostics ##########
+#           KMeans–SMT: Physics-Constrained Clustering with Symbolic Reasoning for Intelligent Vehicle Diagnostics          #
 # ###########################################################################################################################
 
     This repository contains the code and artifacts for “ KMeans–SMT: Physics-Constrained Clustering with Symbolic Reasoning for Intelligent Vehicle Diagnostics” 
