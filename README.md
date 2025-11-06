@@ -58,7 +58,7 @@
 
         Values are cleaned and clipped to plausible ranges:
 
-        speed: [0, 220] km/h, rpm: [0, 8000], throttle: [0, 100]%.
+        speed: [0, 130] km/h, rpm: [0, 6000], throttle: [0, 100]%.
 
 
 #### Run the experiment 
