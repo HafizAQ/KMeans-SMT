@@ -171,8 +171,8 @@ def main():
 
     #Consistent with preprocessing cap/lim
     domain_bounds = [
-        (0.0, 220.0),  # speed_kmh
-        (0.0, 8000.0), # rpm
+        (0.0, 130.0),  # speed_kmh 
+        (0.0, 6000.0), # rpm 
         (0.0, 100.0),  # throttle %
     ]
 
@@ -384,6 +384,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
