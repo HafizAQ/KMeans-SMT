@@ -111,6 +111,8 @@
 ### Citation (placeholder)
     Quddus, H.A.; Jesser, A. KMeans–SMT: Physics-Constrained Clustering with Symbolic Reasoning for Intelligent Vehicle Diagnostics. International Symposium on Intelligent Technology for Future Transportation. LOCATION OF CONFERENCE, United KingdomDATE OF CONFERENCE; pp. 113–126..
 
+    DOI: https://doi.org/10.1007/978-3-032-20592-6_11
+
 #### License 
     MIT License of choice is added (at the top).
 
