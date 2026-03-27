@@ -109,8 +109,7 @@
     Violations bars: violations_by_method*.png
 
 ### Citation (placeholder)
-    KMeans–SMT: Physics-Constrained Clustering with Symbolic Reasoning for Intelligent Vehicle Diagnostics Author(s), Year. (Add venue/DOI when available.) 
-    => Paper Accepted for ITFT 2025, held in London, UK (https://itft.org/index.html).
+    Quddus, H.A.; Jesser, A. KMeans–SMT: Physics-Constrained Clustering with Symbolic Reasoning for Intelligent Vehicle Diagnostics. International Symposium on Intelligent Technology for Future Transportation. LOCATION OF CONFERENCE, United KingdomDATE OF CONFERENCE; pp. 113–126..
 
 #### License 
     MIT License of choice is added (at the top).
